@@ -1,2 +1,3 @@
 # hello-c23
-helloworld in modern C
+
+HelloWorld program in modern C
